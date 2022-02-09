@@ -18,21 +18,21 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter:
+twitter: CrackedJarhead
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube: 
+twitch: CrackedJarhead
 tiktok:
 
 # Share button options
 share:
-  facebook: true
+  facebook: false
   twitter: true
-  tumblr:
-  pinterest:
-  pocket:
-  reddit: true
-  linkedin:
-  wordpress:
-  email: true
+  tumblr: false
+  pinterest: false
+  pocket: false
+  reddit: false
+  linkedin: false
+  wordpress: false
+  email: false
