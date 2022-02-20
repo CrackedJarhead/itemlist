@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -4537,7 +4537,7 @@
       "defName": "ATPP_Android2TX",
       "enabled": true,
       "name": "TX2 Android",
-      "price": 5833
+      "price": 105833
     },
     {
       "data": {
@@ -4570,7 +4570,7 @@
       "defName": "ATPP_Android3TX",
       "enabled": true,
       "name": "TX3 Android",
-      "price": 9667
+      "price": 100667
     },
     {
       "data": {
@@ -4640,7 +4640,7 @@
       "defName": "ATPP_Android2KTX",
       "enabled": true,
       "name": "TX2K Android",
-      "price": 9167
+      "price": 109167
     },
     {
       "data": {
@@ -4676,7 +4676,7 @@
       "defName": "ATPP_Android2KITX",
       "enabled": true,
       "name": "TX2KI Android",
-      "price": 9167
+      "price": 109167
     },
     {
       "data": {
@@ -4712,7 +4712,7 @@
       "defName": "ATPP_Android2ITX",
       "enabled": true,
       "name": "TX2I Android",
-      "price": 5833
+      "price": 105833
     },
     {
       "data": {
@@ -4745,7 +4745,7 @@
       "defName": "ATPP_Android3ITX",
       "enabled": true,
       "name": "TX3I Android",
-      "price": 9667
+      "price": 100667
     },
     {
       "data": {

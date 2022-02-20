@@ -1,4 +1,4 @@
-﻿{
+{
   "tornado": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
@@ -541,7 +541,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "reviveme": {
     "EventType": "Default",
@@ -549,7 +549,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "healall": {
     "EventType": "Default",
@@ -557,7 +557,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "healanypawn": {
     "EventType": "Default",
@@ -565,7 +565,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "healme": {
     "EventType": "Default",
@@ -573,7 +573,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "surgery": {
     "EventType": "Item",
@@ -581,7 +581,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "passionshuffle": {
     "EventType": "Default",
@@ -589,7 +589,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "replacetrait": {
     "EventType": "Trait",
@@ -597,7 +597,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "rescueme": {
     "EventType": "Default",
@@ -605,7 +605,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "fullheal": {
     "EventType": "Variable",
@@ -613,7 +613,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "passion": {
     "EventType": "Default",
@@ -621,7 +621,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "removepassion": {
     "EventType": "Default",
@@ -629,7 +629,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "backpack": {
     "EventType": "Item",
@@ -637,7 +637,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "settraits": {
     "EventType": "Trait",
@@ -645,7 +645,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "cleartraits": {
     "EventType": "Trait",
@@ -653,7 +653,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "use": {
     "EventType": "Item",
@@ -661,7 +661,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "wear": {
     "EventType": "Item",
@@ -669,7 +669,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "equip": {
     "EventType": "Item",
@@ -677,7 +677,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "randomchildhood": {
     "EventType": "Default",
@@ -685,7 +685,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "randomadulthood": {
     "EventType": "Default",
@@ -693,7 +693,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "smite": {
     "EventType": "Default",
@@ -701,7 +701,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "sanctuary": {
     "EventType": "Default",
@@ -709,7 +709,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
+    "Mod": "ToolkitUtils - Testing"
   },
   "iceage": {
     "EventType": "Default",
