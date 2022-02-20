@@ -10441,36 +10441,6 @@
 		"defname": "RE_Drell"
 	},
 	{
-		"abr": "fermentingbarrel",
-		"price": 135,
-		"category": "Production",
-		"defname": "BarrelProcessor"
-	},
-	{
-		"abr": "blueberries",
-		"price": 4,
-		"category": "Vegetarian",
-		"defname": "RawBlueberries"
-	},
-	{
-		"abr": "blueberrymash",
-		"price": 20,
-		"category": "Manufactured",
-		"defname": "BlueberryMash"
-	},
-	{
-		"abr": "blueberrywine",
-		"price": 40,
-		"category": "Drugs",
-		"defname": "BlueberryWine"
-	},
-	{
-		"abr": "bluciferum",
-		"price": 53,
-		"category": "Drugs",
-		"defname": "Bluciferum"
-	},
-	{
 		"abr": "prestigetrooperhelmet",
 		"price": 992,
 		"category": "Headgear",
@@ -10987,5 +10957,5 @@
 		"defname": "Meat_Dryad_Basic"
 	},
 	],
-	"total": 1992
+	"total": 1984
 }

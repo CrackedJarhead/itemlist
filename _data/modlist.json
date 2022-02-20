@@ -916,23 +916,5 @@
     "name": "[LTO] Colony Groups",
     "steamId": "2345493945",
     "version": "1.0.06"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "2633514537",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Blueberries",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Major Hoff",
-    "name": "RimThreaded",
-    "steamId": "2222907981",
-    "version": "2.6.4"
   }
 ]
